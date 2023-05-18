@@ -12,4 +12,5 @@ https://www.codewars.com/kata/550554fd08b86f84fe000a58/java
 
 ### R1D2 - May 17
 
-
+Reviewing bootcamp materials on JavaScript.
+Working on my LOTR wordcloud page. 
