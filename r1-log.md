@@ -18,5 +18,15 @@ Reviewing vuex/data store
 
 ### R1D3 - May 18
 
-Reviewing Vue and axios materials and troubleshooting API services in Vue.js for 
+Reviewing Vue and Axios materials and troubleshooting API services in Vue.js for 
 my Lord of the Rings WordCloud project.
+
+### R1D4 - May 19
+
+Troubleshooting API services in Vue.js for 
+my Lord of the Rings WordCloud project. 
+Spelling component names is important...
+
+### R1D5 - May 20
+
+Cleared up some errors and now I'm figuring out how to render the JSON image response
