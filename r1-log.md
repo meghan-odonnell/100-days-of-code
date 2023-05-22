@@ -30,3 +30,8 @@ Spelling component names is important...
 ### R1D5 - May 20
 
 Cleared up some errors and now I'm figuring out how to render the JSON image response
+
+### R1D6 - May 21
+
+Python CS50 course. I'm already seeing some things that are pretty cool and simple compared to Java, 
+like assigning two variables in the same line with split().
