@@ -12,5 +12,21 @@ https://www.codewars.com/kata/550554fd08b86f84fe000a58/java
 
 ### R1D2 - May 17
 
-Reviewing bootcamp materials on JavaScript.
-Working on my LOTR wordcloud page. 
+Reviewing JavaScript materials from BootCamp to refresh concepts
+Setting up API services in Vue.js for my Lord of the Rings WordCloud project. 
+Reviewing vuex/data store
+
+### R1D3 - May 18
+
+Reviewing Vue and Axios materials and troubleshooting API services in Vue.js for 
+my Lord of the Rings WordCloud project.
+
+### R1D4 - May 19
+
+Troubleshooting API services in Vue.js for 
+my Lord of the Rings WordCloud project. 
+Spelling component names is important...
+
+### R1D5 - May 20
+
+Cleared up some errors and now I'm figuring out how to render the JSON image response
