@@ -35,3 +35,9 @@ Cleared up some errors and now I'm figuring out how to render the JSON image res
 
 Python CS50 course. I'm already seeing some things that are pretty cool and simple compared to Java, 
 like assigning two variables in the same line with split().
+
+### R1D7 - May 22
+
+Worked on some Codewars and reviewing Collections
+
+### R1D8 - May 23
