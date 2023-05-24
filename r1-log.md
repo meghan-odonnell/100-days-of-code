@@ -41,3 +41,5 @@ like assigning two variables in the same line with split().
 Worked on some Codewars and reviewing Collections
 
 ### R1D8 - May 23
+
+Python tutorials late night
