@@ -47,3 +47,7 @@ Python tutorials late night
 ### R1D8 - May 23
 
 Codewars late night
+
+### R1D9 - May 24
+
+Codewars in the afternoon and night. SQL and Java
