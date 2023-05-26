@@ -42,12 +42,16 @@ Worked on some Codewars and reviewing Collections
 
 ### R1D8 - May 23
 
-Python tutorials late night
+Python courses late after bike ride. Summer will be a challenge!
 
 ### R1D8 - May 23
 
-Codewars late night
+SQL kata on Codewars ... late! Busy day and having a bit of resistance in the evening.
 
 ### R1D9 - May 24
 
 Codewars in the afternoon and night. SQL and Java
+
+### R1D10 - May 25
+I got my base 64 image word cloud to display in Vue! And I see that there is a JavaScript package for word clouds, 
+so I'll play around with that next and get my data from the LOTR API feeding properly 🧙‍♂️ #API #theOneAPItoRuleThemAll
