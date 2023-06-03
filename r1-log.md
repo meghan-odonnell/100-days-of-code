@@ -77,7 +77,12 @@ data to the component, but not displaying, and I'm getting a websocket connectio
 
 I got the LOTR data to display - Well, I wasn't accessing the response data correctly (it's an array of objects). 
 
-## R1D16 - May 31
+## R1 xx - May 31 / June 1
 
 Listening to a coding podcast today as I drive to a friend's. 
 
+
+## R1D16 - June 02
+
+Tried integrating LOTR quotes into the Word Cloud and exploring whether to use a store for data management. 
+Also delving into the use of props in Vue. Fun progress! 
