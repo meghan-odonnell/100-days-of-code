@@ -86,3 +86,7 @@ Listening to a coding podcast today as I drive to a friend's.
 
 Tried integrating LOTR quotes into the Word Cloud and exploring whether to use a store for data management. 
 Also delving into the use of props in Vue. Fun progress! 
+
+## R1D17 - June 05
+
+Back from family break and working on Codewars to get back in the swing of things. 
