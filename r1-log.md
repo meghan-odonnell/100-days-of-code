@@ -90,3 +90,28 @@ Also delving into the use of props in Vue. Fun progress!
 ## R1D17 - June 05
 
 Back from family break and working on Codewars to get back in the swing of things. 
+
+
+## R1D18 - June 06
+
+Adding some error messages to the API call catch method
+
+## R1D19 - June 07
+
+Reading up on props in Vue. I'm trying to figure out how to pass the one API data to the other API
+
+## R1D20 - June 18
+
+Setup Plant site project and searching for an API to use
+
+## R1D21 - June 19
+
+Working on login page format
+
+## R1D22 - June 20
+
+Formatting login form and registration forms. Borders, spacing, alignment, containers, etc
+
+## R1D23 - June 21
+
+Working on a sticky navbar and formatting. Working on a sticky navbar and formatting
